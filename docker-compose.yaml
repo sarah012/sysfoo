@@ -4,4 +4,4 @@ services:
   sysfoo:
     image: shlpgtm/sysfoo:latest
     ports:
-      - 8888:8080
+      - 8899:8080
